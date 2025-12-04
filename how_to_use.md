@@ -1,4 +1,4 @@
-HOW_TO_USE.md – Notepad Project
+HOW_TO_USE.md - Notepad Project
 
 1. Requirements
 
@@ -24,6 +24,7 @@ Open terminal or command prompt in the project folder.
 Run:
 
 python main.py
+
 
 
 The main window will open, and you can start writing text.
